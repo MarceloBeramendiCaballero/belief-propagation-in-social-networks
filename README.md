@@ -8,7 +8,7 @@ The goal of this project is to study the factors that drive ideological change i
 <p align="center">
   <img src="https://i.imgur.com/XDyinjU.png" height="40%" width="40%" alt="Poster"/>
 
-While condensing the complexity of political beliefs into a beta distribution is a large oversimplification, our results show that it is enough to generate complex social dynamics that emerge from the interactions between individuals. We were able to replicate real-world phenomena, like the formation of radical echo chambers, and the influence of news media in the beliefs of populations.
+While condensing the complexity of political beliefs into a beta distribution is a large oversimplification, our results show that it is enough to generate complex social dynamics that emerge from the interactions between individuals. We were able to replicate real-world phenomena, like the formation of radical echo chambers, and the influence of news media in the beliefs of populations. Our results can be seen in the attached project report.
 
 <h2>Acknowledgements</h2>
 This was a final project for CSDS 491 at CWRU: Probabilistic Graphical Models, taught by Dr. Michael Lewicki. The project was done in conjunction with my classmate Daniel Popp.
